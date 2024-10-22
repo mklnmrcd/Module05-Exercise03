@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MAUI\\Module05Exercise01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\view\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\view\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewEmployee.xaml",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml",
+              "RelativeDocumentMoniker": "Module05Exercise01\\View\\ViewEmployee.xaml",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml",
+              "RelativeToolTip": "Module05Exercise01\\View\\ViewEmployee.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T05:35:51.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Module05Exercise01\\MainPage.xaml",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MainPage.xaml",
+              "RelativeToolTip": "Module05Exercise01\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-16T05:42:45.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\MainPage.xaml.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MainPage.xaml.cs",
+              "RelativeToolTip": "Module05Exercise01\\MainPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:43:17.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Module05Exercise01\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:34:34.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\Model\\Employee.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Model\\Employee.cs",
+              "RelativeToolTip": "Module05Exercise01\\Model\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:35:03.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewEmployee.xaml.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\View\\ViewEmployee.xaml.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml.cs",
+              "RelativeToolTip": "Module05Exercise01\\View\\ViewEmployee.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:48:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseConnectionService.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\DatabaseConnectionService.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\Services\\DatabaseConnectionService.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\DatabaseConnectionService.cs",
+              "RelativeToolTip": "Module05Exercise01\\Services\\DatabaseConnectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:36:47.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAawC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T12:11:32.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Module05Exercise01\\MauiProgram.cs",
+              "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MauiProgram.cs",
+              "RelativeToolTip": "Module05Exercise01\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:43:16.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

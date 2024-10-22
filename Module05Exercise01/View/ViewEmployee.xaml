@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module05Exercise01.View.ViewEmployee"
+             BackgroundColor="#F8E6FF"
+             Title="Employee Information">
+
+    <VerticalStackLayout
+        Padding="40, 30"
+        Spacing="25"
+        VerticalOptions="FillAndExpand"
+        HorizontalOptions="Center">
+
+        <Label Text="Employee Information"
+               FontSize="28"
+               FontAttributes="Bold"
+               TextColor="#8B5FBF"
+               HorizontalOptions="Center"/>
+
+        <ListView ItemsSource="{Binding EmployeeList}"
+                  HasUnevenRows="True"
+                  BackgroundColor="White"
+                  SeparatorColor="#DA70D6"
+                  Margin="0,10">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame Padding="10"
+                               Margin="5"
+                               BorderColor="#FFD700"
+                               BackgroundColor="#F8E6FF"
+                               CornerRadius="10">
+                            <VerticalStackLayout>
+                                <Label Text="{Binding Name}"
+                                       FontSize="22"
+                                       TextColor="#8B5FBF" />
+                                <Label Text="{Binding Gender}"
+                                       FontSize="18"
+                                       TextColor="#DA70D6" />
+                            </VerticalStackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button Text="Load Employee Data"
+                Command="{Binding LoadDataCommand}"
+                BackgroundColor="#8B5FBF"
+                TextColor="White"
+                FontAttributes="Bold"
+                CornerRadius="20"
+                Padding="10,5"
+                HorizontalOptions="Fill"/>
+
+        <Label x:Name="ConnectionStatusLabel"
+               Text="{Binding StatusMessage}"
+               FontSize="18"
+               TextColor="#DA70D6"
+               HorizontalOptions="Center"
+               Margin="10"/>
+
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,1 @@
+C:\MAUI\Module05Exercise01\Module05Exercise01\Module05Exercise01.csproj;x64

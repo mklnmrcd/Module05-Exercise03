@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module05Exercise01.MainPage"
+             BackgroundColor="#F8E6FF">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="40, 50"
+            Spacing="30"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+
+            <Image
+                Source="disneylogo.png"
+                HeightRequest="150"
+                Aspect="AspectFit" />
+
+            <Label
+                Text="Welcome to Your Magical Journey!"
+                FontSize="32"
+                FontAttributes="Bold"
+                TextColor="#8B5FBF"
+                HorizontalOptions="Center"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="Step into the world of wonders"
+                FontSize="20"
+                TextColor="#FFD700"
+                HorizontalOptions="Center"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Embark on an enchanting experience" />
+
+            <Label x:Name="ConnectionStatusLabel"
+                   Text=""
+                   FontSize="18"
+                   TextColor="Red"
+                   HorizontalOptions="Center"/>
+
+            <Button Text="Test Connection"
+                   Clicked="OnTestConnectionClicked"
+                   HorizontalOptions="Fill"
+                   BackgroundColor="#DA70D6"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   CornerRadius="20"
+                   Padding="15,10"/>
+
+            <Button Text="Discover the Enchanted Employee"
+                   Clicked="OpenViewEmployee"
+                   HorizontalOptions="Fill"
+                   BackgroundColor="#8B5FBF"
+                   TextColor="White"
+                   FontAttributes="Bold"
+                   CornerRadius="20"
+                   Padding="15,10"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
