@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\MAUI\Module05Exercise01\Module05Exercise01\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-22T12:57:13.954</Modified>
+      <Modified>2024-10-30T14:51:54.900</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\Module05Exercise01\Module05Exercise01\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Module05Exercise01.dll">
       <PackagePath>Module05Exercise01.dll</PackagePath>
-      <Modified>2024-10-22T12:57:12.634</Modified>
+      <Modified>2024-10-30T14:51:54.191</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Module05Exercise01.exe</PackagePath>
-      <Modified>2024-10-22T12:57:12.658</Modified>
+      <Modified>2024-10-30T14:51:54.225</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\MAUI\Module05Exercise01\Module05Exercise01\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

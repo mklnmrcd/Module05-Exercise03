@@ -196,3 +196,4 @@ C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041
 C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\disneylogo.scale-100.png
+C:\MAUI\Module05Exercise01\Module05Exercise01\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Module05Exercise01.sourcelink.json
