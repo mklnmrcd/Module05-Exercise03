@@ -4,9 +4,9 @@ Name of Student: Mercado, Miaka Klein A.
 
 Year and Section: BSIT 4A
 
-Activity Title: Module05-Exercise02
+Activity Title: Module05-Exercise03
 
-Date Submitted: 10/30/2024
+Date Submitted: 11/20/2024
 
 
 
@@ -14,9 +14,7 @@ Date Submitted: 10/30/2024
 
 ## Employee Page 
 
-![Screenshot 2024-11-20 133610](https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e)
-![Screenshot 2024-11-20 133649](https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb)
-![Screenshot 2024-11-20 133659](https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016)
+![Screenshot 2024-11-20 133610](https://github.com/user-attachments/assets/d7cce453-21d8-4886-9fe8-c93dade30f4e) ![Screenshot 2024-11-20 133649](https://github.com/user-attachments/assets/6db1c6a3-3379-42fc-ad70-27ca8b106bbb) ![Screenshot 2024-11-20 133659](https://github.com/user-attachments/assets/41016bbe-d723-41be-ba95-95d337342016)
 
 ## Employee Page with filter
 
