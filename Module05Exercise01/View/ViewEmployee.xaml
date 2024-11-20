@@ -15,11 +15,16 @@
                    HorizontalOptions="Center"
                    TextColor="#6D28A5"/>
 
+            <!-- Search Bar -->
+            <SearchBar Placeholder="Search by name, address, email, or contact"
+                       Text="{Binding SearchText}"
+                       HorizontalOptions="FillAndExpand" />
+
             <Frame CornerRadius="10" BackgroundColor="#F3E8FF" Padding="10" Margin="0,10">
-                <ListView ItemsSource="{Binding EmployeeList}" 
+                <ListView ItemsSource="{Binding FilteredEmployeeList}" 
+                          HasUnevenRows="True"
                           SelectedItem="{Binding SelectedEmployee}"
                           BackgroundColor="Transparent"
-                          HasUnevenRows="True"
                           SeparatorColor="#D1C4E9">
                     <ListView.ItemTemplate>
                         <DataTemplate>
@@ -39,6 +44,11 @@
                                         <Label Text="{Binding ContactNo}"
                                                FontSize="Small"
                                                TextColor="#6A5ACD"/>
+                                        <StackLayout.GestureRecognizers>
+                                            <TapGestureRecognizer
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type local:EmployeeViewModel}}, Path =SelectEmployeeCommand}"
+                                            CommandParameter="{Binding }"/>
+                                        </StackLayout.GestureRecognizers>
                                     </StackLayout>
                                 </Frame>
                             </ViewCell>
@@ -92,6 +102,15 @@
                         TextColor="White"
                         FontAttributes="Bold"
                         CornerRadius="10"/>
+                
+                <Button Text="Update Employee" 
+                        Command="{Binding UpdateEmployeeCommand}"
+                        IsEnabled="{Binding IsEmployeeSelected}"
+                        BackgroundColor="#D4BFFF"
+                        TextColor="White"
+                        FontAttributes="Bold"
+                        CornerRadius="10"/>
+                
                 <Button Text="Delete Employee" 
                         Command="{Binding DeleteEmployeeCommand}"
                         IsEnabled="{Binding IsEmployeeSelected}"
@@ -99,6 +118,7 @@
                         TextColor="White"
                         FontAttributes="Bold"
                         CornerRadius="10"/>
+
             </StackLayout>
 
             <Label x:Name="ConnectionStatusLabel"

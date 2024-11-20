@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\MAUI\\Module05Exercise01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\view\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\view\\viewemployee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\view\\viewemployee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\viewmodel\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|solutionrelative:module05exercise01\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E874059C-A8E5-4028-AD3C-502FB8C006CE}|Module05Exercise01\\Module05Exercise01.csproj|c:\\maui\\module05exercise01\\module05exercise01\\services\\databaseconnectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Model\\Employee.cs",
               "RelativeDocumentMoniker": "Module05Exercise01\\Model\\Employee.cs",
@@ -95,31 +95,30 @@
               "RelativeToolTip": "Module05Exercise01\\Services\\DatabaseConnectionService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T05:36:47.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T05:36:47.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ViewEmployee.xaml",
               "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml",
               "RelativeDocumentMoniker": "Module05Exercise01\\View\\ViewEmployee.xaml",
               "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml",
               "RelativeToolTip": "Module05Exercise01\\View\\ViewEmployee.xaml",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-10-16T05:35:51.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EmployeeViewModel.cs",
               "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
               "RelativeDocumentMoniker": "Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
               "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
               "RelativeToolTip": "Module05Exercise01\\ViewModel\\EmployeeViewModel.cs",
-              "ViewState": "AgIAAOkAAAAAAAAAAAAswPcAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAGYBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T12:11:32.892Z",
               "EditorCaption": ""
@@ -132,20 +131,20 @@
               "RelativeDocumentMoniker": "Module05Exercise01\\View\\ViewEmployee.xaml.cs",
               "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\View\\ViewEmployee.xaml.cs",
               "RelativeToolTip": "Module05Exercise01\\View\\ViewEmployee.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T05:48:14.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\EmployeeService.cs",
               "RelativeDocumentMoniker": "Module05Exercise01\\Services\\EmployeeService.cs",
               "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\Services\\EmployeeService.cs",
               "RelativeToolTip": "Module05Exercise01\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwE4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAQwHMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T05:34:34.551Z",
               "EditorCaption": ""
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Module05Exercise01\\AppShell.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-22T13:09:27.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-22T13:09:27.997Z"
             },
             {
               "$type": "Document",
@@ -171,10 +169,9 @@
               "RelativeDocumentMoniker": "Module05Exercise01\\MainPage.xaml.cs",
               "ToolTip": "C:\\MAUI\\Module05Exercise01\\Module05Exercise01\\MainPage.xaml.cs",
               "RelativeToolTip": "Module05Exercise01\\MainPage.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAIBZwCEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAMBkwCEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T05:43:17.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T05:43:17.293Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "Module05Exercise01\\MainPage.xaml",
               "ViewState": "AgIAAB8AAAAAAAAAAAAuwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-16T05:42:45.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T05:42:45.146Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "Module05Exercise01\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T05:43:16.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T05:43:16.496Z"
             }
           ]
         }
